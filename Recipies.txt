@@ -7,6 +7,9 @@ pastha
 chicken
 butter masala
 
+piza
+Burger
+
 
 Thank You
 
